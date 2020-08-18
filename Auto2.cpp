@@ -2,8 +2,8 @@
 #include <cstdlib>
 #include <conio2.h>
 #include <iostream>
-using namespace std;
 
+using namespace std;
 
 /*
 // CONSTRUCTOR

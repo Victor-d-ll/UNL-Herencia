@@ -8,7 +8,6 @@ using namespace std;
 /*
 // CONSTRUCTOR
 */
-
 Auto3::Auto3(int vel, int x0, int y0):Auto(vel, x0, y0){
 
 	cambio = true;

@@ -2,6 +2,7 @@
 #include <conio2.h>
 #include <iostream>
 #include <cstdio>
+
 using namespace std;
 
 Auto::Auto() {
@@ -62,7 +63,6 @@ void Auto::dibujar(){
 /*
 METODO BORRAR
 */
-
 void Auto::borrar(){
 	
 	for (int i= 0; i<ancho+1; i++){

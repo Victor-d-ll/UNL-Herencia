@@ -1,5 +1,6 @@
 #ifndef AUTO3_H
 #define AUTO3_H
+
 #include "Auto.h"
 
 class Auto3 : public Auto{

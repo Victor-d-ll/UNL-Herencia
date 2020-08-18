@@ -2,7 +2,7 @@
 #include <iostream>
 #include <conio2.h>
 #include <climits>
-#include "Auto3.h"
+
 using namespace std;
 
 Juego::Juego(){
@@ -68,7 +68,5 @@ void Juego::play(){
 		}	
 		
 	}
-	
-	
 	
 }

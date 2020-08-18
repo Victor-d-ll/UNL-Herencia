@@ -2,6 +2,7 @@
 #define AUTO2_H
 
 #include "Auto.h"
+
 class Auto2 : public Auto{
 	
 protected:	
