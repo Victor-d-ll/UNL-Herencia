@@ -11,7 +11,7 @@ using namespace std;
 Auto2::Auto2(int vel, int x0, int y0):Auto(vel, x0, y0){
 	
 	cambio = true;
-	colorAuto = 10;		
+	colorAuto = 10;	
 	
 	color[1][0] = colorAuto;
 	color[1][2] = colorAuto;	
@@ -25,7 +25,7 @@ Auto2::Auto2(int vel, int x0, int y0):Auto(vel, x0, y0){
 }
 
 /// El metodo update lo tiene cada objeto pero es 
-//// distinto en cada caso, por lo que se debe implementar 
+/// distinto en cada caso, por lo que se debe implementar 
 /// en cada clase
 void Auto2::Cambio(){
 	
